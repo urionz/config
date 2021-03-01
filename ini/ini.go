@@ -6,8 +6,8 @@ about ini parse, please see https://github.com/gookit/ini/parser
 package ini
 
 import (
-	"github.com/gookit/ini/v2/parser"
 	"github.com/urionz/config"
+	"github.com/urionz/ini/parser"
 )
 
 // Decoder the ini content decoder

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gookit/ini/v2/parser"
+	"github.com/urionz/ini/parser"
 )
 
 var (
