@@ -9,10 +9,10 @@ package hclv2
 import (
 	"errors"
 
-	"github.com/gookit/config/v2"
 	"github.com/hashicorp/hcl/v2"
 	"github.com/hashicorp/hcl/v2/gohcl"
 	"github.com/hashicorp/hcl/v2/hclsyntax"
+	"github.com/urionz/config"
 )
 
 // Decoder the hcl content decoder

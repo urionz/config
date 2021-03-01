@@ -4,8 +4,8 @@ Package other is an example of a custom driver
 package other
 
 import (
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/ini"
+	"github.com/urionz/config"
+	"github.com/urionz/config/ini"
 )
 
 const driverName = "other"

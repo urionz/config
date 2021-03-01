@@ -4,7 +4,7 @@ package config
 import (
 	"encoding/json"
 
-	"github.com/gookit/goutil/jsonutil"
+	"github.com/urionz/goutil/jsonutil"
 )
 
 // JSONAllowComments support write comments on json file.

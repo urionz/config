@@ -3,11 +3,11 @@ package config_test
 import (
 	"testing"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/yaml"
-	"github.com/gookit/config/v2/yamlv3"
-	"github.com/gookit/goutil/dump"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/config"
+	"github.com/urionz/config/yaml"
+	"github.com/urionz/config/yamlv3"
+	"github.com/urionz/goutil/dump"
 )
 
 // https://github.com/gookit/config/issues/37

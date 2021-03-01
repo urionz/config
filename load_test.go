@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/gookit/goutil/testutil"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/goutil/testutil"
 )
 
 func TestDefaultLoad(t *testing.T) {

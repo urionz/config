@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/toml"
+	"github.com/urionz/config"
+	"github.com/urionz/config/toml"
 )
 
 // go run ./examples/toml.go

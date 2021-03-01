@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/gookit/goutil/dump"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/goutil/dump"
 )
 
 func TestExport(t *testing.T) {

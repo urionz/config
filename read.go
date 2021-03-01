@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gookit/goutil/envutil"
+	"github.com/urionz/goutil/envutil"
 )
 
 var (

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/json"
+	"github.com/urionz/config"
+	"github.com/urionz/config/json"
 )
 
 // go run ./examples/json.go

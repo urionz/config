@@ -3,9 +3,9 @@ package hcl
 import (
 	"testing"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/goutil/dump"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/config"
+	"github.com/urionz/goutil/dump"
 )
 
 func TestDriver(t *testing.T) {

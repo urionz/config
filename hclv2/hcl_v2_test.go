@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gookit/config/v2"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/config"
 )
 
 func TestDriver(t *testing.T) {

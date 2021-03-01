@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gookit/goutil/testutil"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/goutil/testutil"
 )
 
 var jsonStr = `{

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/goutil/testutil"
 	"github.com/stretchr/testify/assert"
+	"github.com/urionz/config"
+	"github.com/urionz/goutil/testutil"
 )
 
 var yamlStr = `

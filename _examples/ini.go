@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/gookit/config/v2"
-	"github.com/gookit/config/v2/ini"
+	"github.com/urionz/config"
+	"github.com/urionz/config/ini"
 )
 
 // go run ./examples/ini.go

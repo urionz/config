@@ -11,7 +11,7 @@ import (
 	"bytes"
 
 	"github.com/BurntSushi/toml"
-	"github.com/gookit/config/v2"
+	"github.com/urionz/config"
 )
 
 // Decoder the toml content decoder
